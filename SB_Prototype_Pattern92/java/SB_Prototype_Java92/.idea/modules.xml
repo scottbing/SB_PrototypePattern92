@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SB_PrototypePattern.iml" filepath="$PROJECT_DIR$/SB_PrototypePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SB_Prototype_Java92.iml" filepath="$PROJECT_DIR$/SB_Prototype_Java92.iml" />
     </modules>
   </component>
 </project>
