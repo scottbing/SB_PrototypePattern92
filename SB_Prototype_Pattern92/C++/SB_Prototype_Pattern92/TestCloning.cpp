@@ -24,9 +24,9 @@ int main()
 
 	// These are exact copies of each other
 
-	std::wcout << sally << std::endl;
+    std::wcout << sally->toString() << std::endl;
 
-	std::wcout << clonedSheep << std::endl;
+	std::wcout << clonedSheep->toString() << std::endl;
 
 	std::wcout << L"Sally HashCode: " << &sally << std::endl;
 
@@ -43,11 +43,11 @@ int main()
 
 	// These are exact copies of each other
 
-	std::wcout << Sophie << std::endl;
+	std::wcout << Sophie->toString() << std::endl;
 
-	std::wcout << clonedDog << std::endl;
+	std::wcout << clonedDog->toString() << std::endl;
 
-	std::wcout << L"Miss Violet HashCode: " << &Sophie << std::endl;
+	std::wcout << L"Sophie HashCode: " << &Sophie << std::endl;
 
 	std::wcout << L"Clone HashCode: " << &clonedDog << std::endl;
 
