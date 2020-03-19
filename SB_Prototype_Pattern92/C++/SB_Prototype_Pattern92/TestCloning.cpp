@@ -51,8 +51,6 @@ int main()
 
 	std::wcout << L"Clone HashCode: " << &clonedDog << std::endl;
 
-	//JAVA TO C++ CONVERTER TODO TASK: A 'delete Sophie' statement was not added since Sophie was passed to a method or constructor. Handle memory management manually.
-	//JAVA TO C++ CONVERTER TODO TASK: A 'delete sally' statement was not added since sally was passed to a method or constructor. Handle memory management manually.
 	delete animalMaker;
 }
 
